@@ -1,9 +1,5 @@
 <center><h1>Ejemplos de Gramática en PHP 8</h1></center>
 
-<center>
-![](https://images2.imgbox.com/f1/ba/gdlZ6Ay2_o.png)
-</center>
-
 <center><h3>Manual de PHP Online</h3></center>
                 
 
